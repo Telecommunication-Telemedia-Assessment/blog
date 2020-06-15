@@ -1,0 +1,24 @@
+theme: minima
+
+title: Audio Visual Technology Group
+description: >-
+  This blog considers several topics about research in the field of audiovisual technology.
+  The [Audio Visual Technology Group](https://www.tu-ilmenau.de/en/audio-visual-technology/) is part of [TU Ilmenau](https://www.tu-ilmenau.de/en/), [Imprint](https://www.tu-ilmenau.de/impressum/).
+
+logo: AVTLogoText-wide.png
+
+author: Alexander Raake
+email: alexander.raake@tu-ilmenau.de
+
+
+twitter_username: avt-imt
+github_username: Telecommunication-Telemedia-Assessment
+rss: rss
+
+
+show_downloads: false
+show_excerpts: true ## some preview of the text of each post?, its usually the first paragraph
+
+exclude:
+  - README.md
+  - old
