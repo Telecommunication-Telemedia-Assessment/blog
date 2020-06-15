@@ -6,6 +6,7 @@ description: >-
   The [Audio Visual Technology Group](https://www.tu-ilmenau.de/en/audio-visual-technology/) is part of [TU Ilmenau](https://www.tu-ilmenau.de/en/), [Imprint](https://www.tu-ilmenau.de/impressum/).
 
 logo: AVTLogoText-wide.png
+baseurl: /blog
 
 author: Alexander Raake
 email: alexander.raake@tu-ilmenau.de
