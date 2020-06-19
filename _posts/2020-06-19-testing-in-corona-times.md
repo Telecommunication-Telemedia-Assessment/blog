@@ -21,7 +21,7 @@ This is especially bad since most of the actual science of today in QoE is being
 ## Goals
 So, how to continue working in the area of QoE with respect to handling the Corona pandemic in a responsible and safe manner?
 There are three obvious answers to this:
-- Use already collected data and and analyze more extensively.
+- Use already collected data and analyze more extensively.
 - Go (classic, internet-based) crowdsourcing.
 - Create a hygiene-concept under which lab studies are possible.
 
