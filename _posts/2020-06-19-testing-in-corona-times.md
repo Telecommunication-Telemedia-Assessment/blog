@@ -19,6 +19,7 @@ There are three obvious answers to this:
 - Use already collected data and and analyze more extensively.
 - Go (classic, internet-based) crowdsourcing.
 - Create a hygiene-concept under which lab studies are possible.
+
 If, due to mentioned or other reasons the first two options are not possible for you, you face the same problem we did. Since we wanted to keep the infection risk for our participants and supervisors as low as possible, we even raised the bar in comparison to university or governmental rules when it comes to hygiene measures. 
 We had the following goals:
 1. At no given moment of the test the supervisor and subject should be in physical contact and not closer than 1.5m. We also dont want them to be in the same room for more than a minute. 
