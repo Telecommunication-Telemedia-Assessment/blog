@@ -49,34 +49,33 @@ Still, for the arrival we made it obligatory to wear a mask that covers both nos
 We immediately directed the subject into the hearing room and instructed him or her to sit at the illuminated test chair without further ado.
 Then the supervisor closed the door behind the subject and sat himself into the operator's room to welcome the participant using the talkback system.
 We explained that this user test will be a bit different than usual and that they can take off their mask to avoid discomfort caused by it.
-Then, normally the subject would read and fill out the instructions and legal papers and would be led through the training part by the supervisor. 
-We chose to do this as digital as possible. 
-We used a Microsoft Surface Pro 6 tablet to access a laptop located in the operator's room using Windows Remote Desktop. 
+Then, normally the subject would read and fill out the instructions and legal papers and would be led through the training part by the supervisor.
+We chose to do this as digital as possible.
+We used a Microsoft Surface Pro 6 tablet to access a laptop located in the operator's room using Windows Remote Desktop.
 This enabled the supervisor to access the test software at any given time in case of an error.
-We decided on using a tablet (instead of e.g.
-  mouse and keyboard or paper sheets) since we concluded that it was easiest to disinfect using wipes not damaging the display and most efficient in terms of test analysis.
+We decided on using a tablet (instead of e.g. mouse and keyboard or paper sheets) since we concluded that it was easiest to disinfect using wipes not damaging the display and most efficient in terms of test analysis.
 
 Although the test was built to be self descriptive, subjects were allowed to ask any question during the training part which were immediately answered by the supervisor.
-After the training, and to avoid the sense of being watched, the subjects were allowed to close a curtain that blocked the windows, but it was hardly employed. 
-After the test was done, the subjects told the instructor about their success and were told to re-apply the mask. 
+After the training, and to avoid the sense of being watched, the subjects were allowed to close a curtain that blocked the windows, but it was hardly employed.
+After the test was done, the subjects told the instructor about their success and were told to re-apply the mask.
 The instructor then opened the door of the hearing room and the subject could leave the facilities.
 As already mentioned, our measures included the reduction of interactions with doors etc.
-as well as the implementation of effective disinfection concepts. 
+as well as the implementation of effective disinfection concepts.
 Therefore, we cleaned all areas touched by the subjects (tablet, chair, table) with a wipe disinfectant and also used a new pen for every participant.
 
 ## Findings
 One thing we haven't talked about is recruiting subjects.
-Since our usual participants are students, we faced different problems: Ilmenau is a small city and the university doesn't have so many registered students. 
-Therefore the overall number of potential candidates is already quite low. 
-Additionally, it seemed as if many students were not even in Ilmenau since all the teaching is currently performed online which further reduced the amount of potential subjects. 
-At last, the ones being in Ilmenau were more reluctant in signing up for the test. 
+Since our usual participants are students, we faced different problems: Ilmenau is a small city and the university doesn't have so many registered students.
+Therefore the overall number of potential candidates is already quite low.
+Additionally, it seemed as if many students were not even in Ilmenau since all the teaching is currently performed online which further reduced the amount of potential subjects.
+At last, the ones being in Ilmenau were more reluctant in signing up for the test.
 Summarizing, we had the impression, that, although we were able to pay the usual expense allowance, it was way harder to recruit participants.
 
 Besides this, all subjects respected and welcomed our measures and reported that the artificial talkback system neither hindered them from getting needed information nor introduced any issues.
 After having had more than 60 participants we can conclude that the disinfectant didn't affect the display of the tablet.
 
 The additional time overhead prolonged the overall testing duration by a factor of 50 percent.
-Usually we can get the ratings of around 30 participants in a test that each takes about an hour in one week's time (5 working days of 8h). 
+Usually we can get the ratings of around 30 participants in a test that each takes about an hour in one week's time (5 working days of 8h).
 This time we needed around 7.5 working days to reach this amount of ratings.
 
 The results of the test do not show any obvious case of problems that can be connected to the additional pandemic-related measures we applied.
