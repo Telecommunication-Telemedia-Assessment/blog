@@ -4,7 +4,7 @@ title:  Testing in Corona times
 categories: blog
 author: Dominik Keller
 ---
-... Summarizing, we had the impression, that, although we were able to pay the usual expense allowance, it was way harder to recruit participants... 
+We had to run a subjective test while there was still some corona-related restrictions. That's why we had to be extra cautious. 
 
 ## Intro
 With the still ongoing corona virus crisis a lot of workers from very different areas face troubles and inconveniences. <!--- While every single one counts, some are hit harder than others and have to deal with working from home, working short-time or even losing their jobs while managing their kids who can't go to school and living life in a very unusual and troubling way. -->
@@ -27,7 +27,7 @@ We had the following goals:
 4. Despite the strict measures the test procedure should be as normal and pleasant as possible to not introduce unwanted and uncontrollable biases.
 
 ## Testing
-Since one of our research activities includes the evaluation of music on different loudspeakers, the test needed to be done in the lab. Luckily, the institute's audio lab (see https://www.tu-ilmenau.de/en/institute-for-media-technology/the-institute/equipment/audio-lab/) has a lot of preconditions that eased our life a  lot. Since it is built to record and quietly listen to audio pieces, there are two separate rooms that are connected with a large-scale window: the operator's room and the actual hearing room. With a system that enabled us to speak directly with the subject (two good microphones and two speakers, volume controllable, muting possible) the supervisor and the subject were able to speak with and look at each other in a very natural way although being separated by 3 cms of a glass window. To address the second goal we regulated the lab's air conditioning system to pump the highest amount of air possible into and out of the room while still being perceptively unhearable. Additionally, between every two tests we opened an outside door to enable more air exchange. 
+Since one of our research activities includes the evaluation of music on different loudspeakers, the test needed to be done in the lab. Luckily, the institute's audio lab (see https://www.tu-ilmenau.de/en/institute-for-media-technology/the-institute/equipment/audio-lab/) has a lot of preconditions that eased our life a  lot. Since it is built to record and quietly listen to audio pieces, there are two separate rooms that are connected with a large-scale window: the operator's room and the actual hearing room. With a system that enabled us to speak directly with the subject (two good microphones and two speakers, volume controllable, muting possible) the supervisor and the subject were able to speak with and look at each other in a very natural way although being separated by 3 cms of a glass window. You can see a view from the operator's room into the hearing room in the picture below. To address the second goal we regulated the lab's air conditioning system to pump the highest amount of air possible into and out of the room while still being perceptively unhearable. Additionally, between every two tests we opened an outside door to enable more air exchange. 
 
 ![View from the operator's room into the hearing room.](https://i.imgur.com/IWENfxp.jpg)
 
