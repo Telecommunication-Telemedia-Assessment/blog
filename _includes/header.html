@@ -36,4 +36,12 @@
       </nav>
     {%- endif -%}
   </div>
+  <script type="text/javascript">
+    var src = "https://avtshare01.rz.tu-ilmenau.de/stats/log.php?page=" + JSON.stringify({"url": window.location.href});
+    img = document.createElement('img');
+    img.src = src;
+    img.style.visibility = "hidden";
+    document.body.appendChild(img);
+
+  </script>
 </header>
