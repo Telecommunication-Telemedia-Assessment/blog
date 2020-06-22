@@ -33,7 +33,7 @@ We had the following goals:
 4. Despite the strict measures the test procedure should be as normal and pleasant as possible to not introduce unwanted and uncontrollable biases.
 
 ## Testing
-Since one of our research activities includes the evaluation of music on different loudspeakers, the test needed to be done in the lab. Luckily, the institute's audio lab (see [https://www.tu-ilmenau.de/en/institute-for-media-technology/the-institute/equipment/audio-lab/](Audio Lab webpage)) has a lot of preconditions that eased our life a lot.
+Since one of our research activities includes the evaluation of music on different loudspeakers, the test needed to be done in the lab. Luckily, the institute's audio lab (see [Audio Lab webpage](https://www.tu-ilmenau.de/en/institute-for-media-technology/the-institute/equipment/audio-lab/)) has a lot of preconditions that eased our life a lot.
 Since it is built to enable to record and to quietly listen to audio pieces, there are two separate rooms that are connected with a large-scale window: the operator's room and the actual hearing room.
 With a talkback system that enabled us to speak directly with the subject (two good microphones and two speakers, volume controllable, muting possible) the supervisor and the subject were able to speak with and look at each other in a very natural way although being separated a glass window of 3cm.
 You can see a view from the operator's room into the hearing room in the picture below.
