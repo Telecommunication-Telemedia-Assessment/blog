@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Testing in Corona times
+title:  Subjective Testing in Corona Times
 categories: blog
 author: Dominik Keller
 ---
